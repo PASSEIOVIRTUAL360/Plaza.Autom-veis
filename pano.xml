@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour hassounds="0" start="node1" apprev="20995" appversion="7.1.9">
+  <panorama id="node1">
+    <input levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingroll="0" width="2000" height="2000" overlap="1" levelbiashidpi="1.000" levelingpitch="0">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="89.4154" fovmode="2">
+      <start fov="100" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90" pan="360"/>
+    </view>
+    <userdata copyright="" customnodeid="" longitude="-46.55657711" datetime="07/06/2025 10:21" heading="89.4154" title="Plaza Automóveis" altitude="743.80" source="" author="" comment="" info="" description="" latitude="-23.61678940" nodeid="node1" tags="OFII"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label bordercolor="0x000000" border="1" borderradius="1" textcolor="0x000000" textalpha="1" width="180" height="20" background="1" borderalpha="1" enabled="1" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node2}" tilt="0" skinid="ht_node" pan="21.9206" title="Plaza Automóveis" distance="3.70101" target="$fwd" description="" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition type="mesh" blendtime="1" zoomfov="40" zoomafteroutfov="40" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" softedge="0" zoomout="0" enabled="1" zoomafterinfov="140" zoomin="7" delay="none"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control hideabout="0" simulatemass="1" contextprojections="0" lockedwheel="0" zoomcentercursor="1" speedwheel="1" lockedkeyboardzoom="0" contextvr="1" invertwheel="0" sensitivity="8" contextfullscreen="1" invertcontrol="1" lockedkeyboard="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingroll="0" width="2000" height="2000" overlap="1" levelbiashidpi="1.000" levelingpitch="0">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-209.23" fovmode="2">
+      <start fov="100" projection="4" tilt="-4.60042" pan="87.8062"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90" pan="360"/>
+    </view>
+    <userdata copyright="" customnodeid="" longitude="-46.55654355" datetime="07/06/2025 10:24" heading="-209.23" title="Plaza Automóveis" altitude="745.30" source="" author="" comment="" info="" description="" latitude="-23.61677666" nodeid="node2" tags="OFII"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label bordercolor="0x000000" border="1" borderradius="1" textcolor="0x000000" textalpha="1" width="180" height="20" background="1" borderalpha="1" enabled="1" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node1}" tilt="0" skinid="ht_node" pan="-96.7248" title="Plaza Automóveis" distance="3.70101" target="$fwd" description="" id="Point01"/>
+      <hotspot url="{node4}" tilt="0" skinid="ht_node" pan="-356.393" title="Plaza Automóveis" distance="3.39322" target="$fwd" description="" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition type="mesh" blendtime="1" zoomfov="40" zoomafteroutfov="40" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" softedge="0" zoomout="0" enabled="1" zoomafterinfov="140" zoomin="7" delay="none"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control hideabout="0" simulatemass="1" contextprojections="0" lockedwheel="0" zoomcentercursor="1" speedwheel="1" lockedkeyboardzoom="0" contextvr="1" invertwheel="0" sensitivity="8" contextfullscreen="1" invertcontrol="1" lockedkeyboard="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingroll="0" width="2000" height="2000" overlap="1" levelbiashidpi="1.000" levelingpitch="0">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="78.0402" fovmode="2">
+      <start fov="100" projection="4" tilt="-7.43306" pan="-109.094"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90" pan="360"/>
+    </view>
+    <userdata copyright="" customnodeid="" longitude="-46.55653386" datetime="07/06/2025 10:29" heading="78.0402" title="Plaza Automóveis" altitude="754.90" source="" author="" comment="" info="" description="" latitude="-23.61683179" nodeid="node3" tags="OFII"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label bordercolor="0x000000" border="1" borderradius="1" textcolor="0x000000" textalpha="1" width="180" height="20" background="1" borderalpha="1" enabled="1" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node4}" tilt="0" skinid="ht_node" pan="63.4631" title="Plaza Automóveis" distance="3.3882" target="$fwd" description="" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition type="mesh" blendtime="1" zoomfov="40" zoomafteroutfov="40" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" softedge="0" zoomout="0" enabled="1" zoomafterinfov="140" zoomin="7" delay="none"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control hideabout="0" simulatemass="1" contextprojections="0" lockedwheel="0" zoomcentercursor="1" speedwheel="1" lockedkeyboardzoom="0" contextvr="1" invertwheel="0" sensitivity="8" contextfullscreen="1" invertcontrol="1" lockedkeyboard="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingroll="0" width="2000" height="2000" overlap="1" levelbiashidpi="1.000" levelingpitch="0">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="137.145" fovmode="2">
+      <start fov="100" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90" pan="360"/>
+    </view>
+    <userdata copyright="" customnodeid="" longitude="-46.55652549" datetime="07/06/2025 10:27" heading="137.145" title="Plaza Automóveis" altitude="741.20" source="" author="" comment="" info="" description="" latitude="-23.61680230" nodeid="node4" tags="OFII"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label bordercolor="0x000000" border="1" borderradius="1" textcolor="0x000000" textalpha="1" width="180" height="20" background="1" borderalpha="1" enabled="1" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node2}" tilt="0" skinid="ht_node" pan="169.982" title="Plaza Automóveis" distance="3.39322" target="$fwd" description="" id="Point01"/>
+      <hotspot url="{node5}" tilt="0" skinid="ht_node" pan="17.4071" title="Plaza Automóveis" distance="3.30648" target="$fwd" description="" id="Point02"/>
+      <hotspot url="{node3}" tilt="0" skinid="ht_node" pan="302.568" title="Plaza Automóveis" distance="3.3882" target="$fwd" description="" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition type="mesh" blendtime="1" zoomfov="40" zoomafteroutfov="40" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" softedge="0" zoomout="0" enabled="1" zoomafterinfov="140" zoomin="7" delay="none"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control hideabout="0" simulatemass="1" contextprojections="0" lockedwheel="0" zoomcentercursor="1" speedwheel="1" lockedkeyboardzoom="0" contextvr="1" invertwheel="0" sensitivity="8" contextfullscreen="1" invertcontrol="1" lockedkeyboard="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingroll="0" width="2000" height="2000" overlap="1" levelbiashidpi="1.000" levelingpitch="0">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="506.105" fovmode="2">
+      <start fov="100" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90" pan="360"/>
+    </view>
+    <userdata copyright="" customnodeid="" longitude="-46.55649731" datetime="2025:06:09 22:45:30" heading="506.105" title="Plaza Automóveis" source="" author="Thiago Leite" comment="" info="" description="" latitude="-23.61681705" nodeid="node5" tags="OFII"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label bordercolor="0x000000" border="1" borderradius="1" textcolor="0x000000" textalpha="1" width="180" height="20" background="1" borderalpha="1" enabled="1" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node4}" tilt="0" skinid="ht_node" pan="566.367" title="Plaza Automóveis" distance="3.30648" target="$fwd" description="" id="Point01"/>
+      <hotspot url="{node6}" tilt="0" skinid="ht_node" pan="361.753" title="Plaza Automóveis" distance="3.04872" target="$fwd" description="" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition type="mesh" blendtime="1" zoomfov="40" zoomafteroutfov="40" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" softedge="0" zoomout="0" enabled="1" zoomafterinfov="140" zoomin="7" delay="none"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control hideabout="0" simulatemass="1" contextprojections="0" lockedwheel="0" zoomcentercursor="1" speedwheel="1" lockedkeyboardzoom="0" contextvr="1" invertwheel="0" sensitivity="8" contextfullscreen="1" invertcontrol="1" lockedkeyboard="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingroll="0" width="2000" height="2000" overlap="1" levelbiashidpi="1.000" levelingpitch="0">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="184.418" fovmode="2">
+      <start fov="100" projection="4" tilt="-6.69321" pan="25.6151"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90" pan="360"/>
+    </view>
+    <userdata copyright="" customnodeid="" longitude="-46.55647987" datetime="07/06/2025 10:40" heading="184.418" title="Plaza Automóveis" altitude="750.30" source="" author="" comment="" info="" description="" latitude="-23.61683933" nodeid="node6" tags="OFII"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label bordercolor="0x000000" border="1" borderradius="1" textcolor="0x000000" textalpha="1" width="180" height="20" background="1" borderalpha="1" enabled="1" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node5}" tilt="0" skinid="ht_node" pan="220.066" title="Plaza Automóveis" distance="3.04872" target="$fwd" description="" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition type="mesh" blendtime="1" zoomfov="40" zoomafteroutfov="40" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" softedge="0" zoomout="0" enabled="1" zoomafterinfov="140" zoomin="7" delay="none"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control hideabout="0" simulatemass="1" contextprojections="0" lockedwheel="0" zoomcentercursor="1" speedwheel="1" lockedkeyboardzoom="0" contextvr="1" invertwheel="0" sensitivity="8" contextfullscreen="1" invertcontrol="1" lockedkeyboard="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" author="" comment="" description="" title="" tags=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
